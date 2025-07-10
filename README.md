@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm<a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Daniel Cuartas</a></h1><!--
-<h3 align="center">A passionate developer abierto al aprendizaje &#127470;&#127475</h3>
+
+<h3 alinear="centro">Un apasionado desarrollador de software abierto al aprendizaje </h3>
+
+<pag alinear="izquierda"> <imagen origen="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Vistas de perfil&color=0e75b6&style=flat" alt="100rabhcsmc"/> </pag>
+
 
 
 Here are some ideas to get you started:
